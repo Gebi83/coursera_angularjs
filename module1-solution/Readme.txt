@@ -1,1 +1,1 @@
-Solutio for Module 1 assignment.
+Solution for Module 1 assignment.
